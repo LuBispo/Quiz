@@ -29,6 +29,7 @@ function App() {
   };
 
   return (
+    <div className="app-container">
     <div className="min-h-screen flex items-center justify-center bg-gray-100 p-4">
       {telaAtual === "login" && <TelaLogin onLogin={handleLogin} />}
       {telaAtual === "boasVindas" && (
@@ -45,6 +46,7 @@ function App() {
           onLogout={handleLogout}
         />
       )}
+    </div>
     </div>
   );
 }
