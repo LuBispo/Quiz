@@ -22,7 +22,7 @@ export default function Quiz({ usuario, assuntoSelecionado, onLogout }) {
         const data = await response.json();
 
         const perguntasSorteadas = embaralharArray(data)
-          .slice(0, 10)
+          .slice(0, 20)
           .map((pergunta) => ({
             ...pergunta,
             respostas: embaralharArray(pergunta.respostas),
