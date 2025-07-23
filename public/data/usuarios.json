@@ -1,0 +1,18 @@
+[
+  {
+    "usuario": "luciano",
+    "senha": "1234",
+    "nome": "Luciano",
+    "sobrenome": "Bispo",
+    "idade": 40,
+    "cidade": "Salvador"
+  },
+  {
+    "usuario": "ana",
+    "senha": "5678",
+    "nome": "Ana",
+    "sobrenome": "Silva",
+    "idade": 30,
+    "cidade": "Fortaleza"
+  }
+]

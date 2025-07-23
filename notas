@@ -1,0 +1,41 @@
+src/
+├── App.jsx                    ← Controla fluxo principal (login, jogo, final)
+├── data/
+│   ├── usuarios.json
+│   ├── geografia.json
+│   ├── historia.json
+│   └── ciencias.json
+├── components/
+│   ├── TelaLogin.jsx
+│   ├── TelaBoasVindas.jsx
+│   ├── TelaPergunta.jsx
+│   ├── PainelAcoes.jsx        ← Botões de pular e eliminar
+│   ├── ValorAcumulado.jsx
+│   └── EliminadorAnimado.jsx  ← Quadrado com efeito de embaralhar
+│   └── Quiz.jsx               ← Carrega e sorteia 10 perguntas
+
+
+
+
+PROJETO CRIADO COM A AJUDA DO CHATGPT INICIADO EM 15 DE JULHO DE 2025 COM O SEGUINTE TEXTO:
+
+Quero criar um mini jogo no estilo show do milhão, com 10 perguntas.
+
+- O usuário vai logar no sistema
+- Vai receber uma mensagem de boas vindas com um botão iniciar abaixo da mensagem
+- Assim que o botão iniciar for clicado, é exibida a primeira pergunta com 4 alternativas
+- Abaixo das perguntas, vão ter as opções de pular pergunta ou eliminar aleatoriamente
+   1, 2 ou 3 respostas (penso que o useState seria usado aqui)
+- Caso o usuário escolha pular, uma nova pergunta é apresentada
+- Caso ele escolha eliminar resposta eu quero que surja um quadrado na frente das perguntas
+  que vai mostrar aleatoriamente o numero de respostas erradas que serão descartadas. Nesse
+  quadrado quero um efeito dos numeros sendo embaralhados
+- Ainda ao lado dos botoes "pular" e "eliminar respostas" quero exibir um contador que mostre
+  o valor que foi acumulado pelo usuário seguindo a proporção: começa com 1.000,00 reais e a cada
+  resposta certa o valor é acrescido da seguinte forma:
+     pergunta 1 = 10%
+     pergunta 2 = 20%
+     pergunta 3 = 30%
+...e assim por diante.
+
+- Caso a resposta escolhida seja a errada, o montante tem 40% de seu valor total reduzido

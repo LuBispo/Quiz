@@ -1,0 +1,270 @@
+[
+  {
+    "id": 1,
+    "pergunta": "O que é um animal herbívoro?",
+    "respostas": [
+      { "texto": "Aquele que come carne", "correta": false },
+      { "texto": "Aquele que come plantas", "correta": true },
+      { "texto": "Aquele que come tudo", "correta": false },
+      { "texto": "Aquele que vive na água", "correta": false }
+    ]
+  },
+  {
+    "id": 2,
+    "pergunta": "Na cadeia alimentar, quem produz o próprio alimento?",
+    "respostas": [
+      { "texto": "Os consumidores", "correta": false },
+      { "texto": "Os decompositores", "correta": false },
+      { "texto": "Os predadores", "correta": false },
+      { "texto": "Os produtores", "correta": true }
+    ]
+  },
+  {
+    "id": 3,
+    "pergunta": "Um exemplo de produtor na natureza é:",
+    "respostas": [
+      { "texto": "O leão", "correta": false },
+      { "texto": "A árvore", "correta": true },
+      { "texto": "O ser humano", "correta": false },
+      { "texto": "O urso", "correta": false }
+    ]
+  },
+  {
+    "id": 4,
+    "pergunta": "Os decompositores são importantes porque:",
+    "respostas": [
+      { "texto": "Caçam outros animais", "correta": false },
+      { "texto": "Fazem fotossíntese", "correta": false },
+      { "texto": "Transformam restos em nutrientes", "correta": true },
+      { "texto": "Protegem as plantas", "correta": false }
+    ]
+  },
+  {
+    "id": 5,
+    "pergunta": "Qual destes é um exemplo de animal carnívoro?",
+    "respostas": [
+      { "texto": "Vaca", "correta": false },
+      { "texto": "Leão", "correta": true },
+      { "texto": "Cavalo", "correta": false },
+      { "texto": "Gafanhoto", "correta": false }
+    ]
+  },
+  {
+    "id": 6,
+    "pergunta": "Animais onívoros se alimentam de:",
+    "respostas": [
+      { "texto": "Somente carne", "correta": false },
+      { "texto": "Somente vegetais", "correta": false },
+      { "texto": "Carne e vegetais", "correta": true },
+      { "texto": "Insetos apenas", "correta": false }
+    ]
+  },
+  {
+    "id": 7,
+    "pergunta": "O que é uma teia alimentar?",
+    "respostas": [
+      {
+        "texto": "Uma rede de relações alimentares entre seres vivos",
+        "correta": true
+      },
+      { "texto": "Uma teia de aranha", "correta": false },
+      { "texto": "Um tipo de cadeia de DNA", "correta": false },
+      { "texto": "Um lugar onde os animais dormem", "correta": false }
+    ]
+  },
+  {
+    "id": 8,
+    "pergunta": "O que pode acontecer se um animal desaparecer da teia alimentar?",
+    "respostas": [
+      { "texto": "Nada muda", "correta": false },
+      { "texto": "Pode causar desequilíbrio ambiental", "correta": true },
+      { "texto": "As plantas deixam de crescer", "correta": false },
+      { "texto": "Os produtores se multiplicam", "correta": false }
+    ]
+  },
+  {
+    "id": 9,
+    "pergunta": "Qual destes é um ser autotrófico?",
+    "respostas": [
+      { "texto": "Ser humano", "correta": false },
+      { "texto": "Cachorro", "correta": false },
+      { "texto": "Árvore", "correta": true },
+      { "texto": "Fungo", "correta": false }
+    ]
+  },
+  {
+    "id": 10,
+    "pergunta": "Os seres heterotróficos precisam:",
+    "respostas": [
+      { "texto": "Fazer fotossíntese", "correta": false },
+      { "texto": "Comer outros seres vivos", "correta": true },
+      { "texto": "Produzir luz própria", "correta": false },
+      { "texto": "Ficar no sol o dia todo", "correta": false }
+    ]
+  },
+  {
+    "id": 11,
+    "pergunta": "Qual a função dos micro-organismos no meio ambiente?",
+    "respostas": [
+      { "texto": "Causar doenças sempre", "correta": false },
+      { "texto": "Poluir os rios", "correta": false },
+      { "texto": "Decompor matéria orgânica", "correta": true },
+      { "texto": "Produzir lixo", "correta": false }
+    ]
+  },
+  {
+    "id": 12,
+    "pergunta": "O que é fluxo de energia na cadeia alimentar?",
+    "respostas": [
+      {
+        "texto": "É a energia que vai dos consumidores para os produtores",
+        "correta": false
+      },
+      { "texto": "É a luz do sol que gira em círculos", "correta": false },
+      {
+        "texto": "É a energia que passa dos produtores para os consumidores",
+        "correta": true
+      },
+      { "texto": "É a eletricidade dos animais", "correta": false }
+    ]
+  },
+  {
+    "id": 13,
+    "pergunta": "O que são espécies exóticas invasoras?",
+    "respostas": [
+      {
+        "texto": "Animais que fazem parte do ambiente natural",
+        "correta": false
+      },
+      { "texto": "Espécies que ajudam a natureza", "correta": false },
+      {
+        "texto": "Espécies que vêm de outro lugar e causam problemas",
+        "correta": true
+      },
+      { "texto": "Insetos de outro planeta", "correta": false }
+    ]
+  },
+  {
+    "id": 14,
+    "pergunta": "O que é uma relação harmônica entre os seres vivos?",
+    "respostas": [
+      { "texto": "Quando brigam por alimento", "correta": false },
+      { "texto": "Quando um devora o outro", "correta": false },
+      { "texto": "Quando vivem juntos sem se prejudicar", "correta": true },
+      { "texto": "Quando todos são iguais", "correta": false }
+    ]
+  },
+  {
+    "id": 15,
+    "pergunta": "Relações desarmônicas ocorrem quando:",
+    "respostas": [
+      { "texto": "Os seres vivem bem juntos", "correta": false },
+      { "texto": "Um prejudica o outro", "correta": true },
+      { "texto": "Todos se ajudam", "correta": false },
+      { "texto": "Não há relação entre eles", "correta": false }
+    ]
+  },
+  {
+    "id": 16,
+    "pergunta": "Um exemplo de decompositor é:",
+    "respostas": [
+      { "texto": "O cavalo", "correta": false },
+      { "texto": "O cachorro", "correta": false },
+      { "texto": "O fungo", "correta": true },
+      { "texto": "O macaco", "correta": false }
+    ]
+  },
+  {
+    "id": 17,
+    "pergunta": "Se um produtor desaparecer, o que acontece com a cadeia alimentar?",
+    "respostas": [
+      { "texto": "Nada muda", "correta": false },
+      { "texto": "Aumentam os predadores", "correta": false },
+      { "texto": "A cadeia pode ser quebrada", "correta": true },
+      { "texto": "Os decompositores se tornam produtores", "correta": false }
+    ]
+  },
+  {
+    "id": 18,
+    "pergunta": "Quem ocupa o topo da cadeia alimentar?",
+    "respostas": [
+      { "texto": "Os produtores", "correta": false },
+      { "texto": "Os decompositores", "correta": false },
+      { "texto": "Os consumidores secundários ou terciários", "correta": true },
+      { "texto": "As plantas", "correta": false }
+    ]
+  },
+  {
+    "id": 19,
+    "pergunta": "O ser humano é considerado:",
+    "respostas": [
+      { "texto": "Carnívoro", "correta": false },
+      { "texto": "Herbívoro", "correta": false },
+      { "texto": "Onívoro", "correta": true },
+      { "texto": "Decompositor", "correta": false }
+    ]
+  },
+  {
+    "id": 20,
+    "pergunta": "O que os decompositores devolvem ao solo?",
+    "respostas": [
+      { "texto": "Lixo", "correta": false },
+      { "texto": "Nutrientes", "correta": true },
+      { "texto": "Carne", "correta": false },
+      { "texto": "Água suja", "correta": false }
+    ]
+  },
+  {
+    "id": 21,
+    "pergunta": "A fotossíntese acontece em:",
+    "respostas": [
+      { "texto": "Animais", "correta": false },
+      { "texto": "Plantas", "correta": true },
+      { "texto": "Fungos", "correta": false },
+      { "texto": "Todos os seres vivos", "correta": false }
+    ]
+  },
+  {
+    "id": 22,
+    "pergunta": "O que é necessário para a fotossíntese acontecer?",
+    "respostas": [
+      { "texto": "Vento e terra", "correta": false },
+      { "texto": "Luz do sol, água e gás carbônico", "correta": true },
+      { "texto": "Energia elétrica", "correta": false },
+      { "texto": "Sombra e calor", "correta": false }
+    ]
+  },
+  {
+    "id": 23,
+    "pergunta": "Quem são os consumidores primários?",
+    "respostas": [
+      { "texto": "Predadores", "correta": false },
+      { "texto": "Animais que comem produtores", "correta": true },
+      { "texto": "Decompositores", "correta": false },
+      { "texto": "Animais carnívoros", "correta": false }
+    ]
+  },
+  {
+    "id": 24,
+    "pergunta": "O que é o ciclo da matéria?",
+    "respostas": [
+      { "texto": "A troca de energia entre máquinas", "correta": false },
+      {
+        "texto": "A transformação e reaproveitamento dos elementos na natureza",
+        "correta": true
+      },
+      { "texto": "Um tipo de esporte", "correta": false },
+      { "texto": "Uma fase da lua", "correta": false }
+    ]
+  },
+  {
+    "id": 25,
+    "pergunta": "O que acontece com a energia ao longo da cadeia alimentar?",
+    "respostas": [
+      { "texto": "Ela aumenta sempre", "correta": false },
+      { "texto": "Ela desaparece", "correta": false },
+      { "texto": "Ela vai diminuindo", "correta": true },
+      { "texto": "Ela vira água", "correta": false }
+    ]
+  }
+]
