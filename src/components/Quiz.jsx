@@ -91,16 +91,26 @@ export default function Quiz({ usuario, assuntoSelecionado, onLogout }) {
 
   return (
     <div style={{ padding: "1rem" }}>
-      <h2>
+      <p key={indiceAtual} style={{ textAlign: "center" }}>
         Pergunta {indiceAtual + 1} de {perguntas.length}
-      </h2>
-      <p>{perguntaAtual.pergunta}</p>
+      </p>
+      <h3
+        style={{
+          maxWidth: "500px",
+          wordWrap: "break-word",
+          lineHeight: "1.4",
+          textAlign: "center",
+        }}
+      >
+        {perguntaAtual.pergunta}
+      </h3>
+
       <div
         style={{
           display: "flex",
           flexDirection: "column",
           gap: "0.5rem",
-          marginTop: "1rem",
+          marginTop: "2rem",
         }}
       >
         {perguntaAtual.respostas.map((resposta, index) => {
@@ -143,6 +153,8 @@ export default function Quiz({ usuario, assuntoSelecionado, onLogout }) {
               border: "none",
               borderRadius: "5px",
               cursor: respostaSelecionada ? "pointer" : "not-allowed",
+              display: "block",
+              margin: "20px auto",
             }}
           >
             Confirmar sua escolha
@@ -157,6 +169,8 @@ export default function Quiz({ usuario, assuntoSelecionado, onLogout }) {
               border: "none",
               borderRadius: "5px",
               cursor: "pointer",
+              display: "block",
+              margin: "20px auto",
             }}
           >
             Próxima pergunta

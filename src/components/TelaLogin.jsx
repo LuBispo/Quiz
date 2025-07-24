@@ -10,7 +10,7 @@ function TelaLogin({ onLogin }) {
   };
 
   return (
-    <form onSubmit={handleSubmit} style={{ textAlign: "center" }}>
+    <form onSubmit={handleSubmit}>
       <h2>Login</h2>
       <input
         type="text"

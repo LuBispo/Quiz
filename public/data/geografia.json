@@ -1,152 +1,242 @@
 [
   {
     "id": 1,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "Qual é a capital do Brasil?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "São Paulo", "correta": false },
+      { "texto": "Brasília", "correta": true },
+      { "texto": "Rio de Janeiro", "correta": false },
+      { "texto": "Salvador", "correta": false }
     ]
   },
   {
     "id": 2,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "Qual continente o Brasil está localizado?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "Ásia", "correta": false },
+      { "texto": "Europa", "correta": false },
+      { "texto": "América do Sul", "correta": true },
+      { "texto": "África", "correta": false }
     ]
   },
   {
     "id": 3,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "Qual é o maior oceano do planeta?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "Oceano Atlântico", "correta": false },
+      { "texto": "Oceano Índico", "correta": false },
+      { "texto": "Oceano Pacífico", "correta": true },
+      { "texto": "Oceano Ártico", "correta": false }
     ]
   },
   {
     "id": 4,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "Qual é o maior país do mundo em tamanho?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "China", "correta": false },
+      { "texto": "Estados Unidos", "correta": false },
+      { "texto": "Rússia", "correta": true },
+      { "texto": "Canadá", "correta": false }
     ]
   },
   {
     "id": 5,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "Qual é o rio mais extenso do mundo?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "Rio Nilo", "correta": false },
+      { "texto": "Rio Amazonas", "correta": true },
+      { "texto": "Rio São Francisco", "correta": false },
+      { "texto": "Rio Mississipi", "correta": false }
     ]
   },
   {
     "id": 6,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "Qual é o menor continente do mundo?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "Europa", "correta": false },
+      { "texto": "África", "correta": false },
+      { "texto": "Oceania", "correta": true },
+      { "texto": "América do Sul", "correta": false }
     ]
   },
   {
     "id": 7,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "Qual é a capital da Argentina?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "Córdoba", "correta": false },
+      { "texto": "Buenos Aires", "correta": true },
+      { "texto": "Rosário", "correta": false },
+      { "texto": "Mendoza", "correta": false }
     ]
   },
   {
     "id": 8,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "O que é um mapa?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "Uma música", "correta": false },
+      { "texto": "Um brinquedo", "correta": false },
+      { "texto": "Uma representação de lugares", "correta": true },
+      { "texto": "Um animal", "correta": false }
     ]
   },
   {
     "id": 9,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "Quantos continentes existem no planeta Terra?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "5", "correta": false },
+      { "texto": "6", "correta": false },
+      { "texto": "7", "correta": true },
+      { "texto": "8", "correta": false }
     ]
   },
   {
     "id": 10,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "Qual é a capital de Portugal?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "Porto", "correta": false },
+      { "texto": "Lisboa", "correta": true },
+      { "texto": "Coimbra", "correta": false },
+      { "texto": "Faro", "correta": false }
     ]
   },
   {
     "id": 11,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "Qual país tem o formato parecido com uma bota?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "França", "correta": false },
+      { "texto": "Itália", "correta": true },
+      { "texto": "Alemanha", "correta": false },
+      { "texto": "Espanha", "correta": false }
     ]
   },
   {
     "id": 12,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "Qual animal é símbolo do Brasil?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "Lobo", "correta": false },
+      { "texto": "Tamanduá", "correta": false },
+      { "texto": "Onça-pintada", "correta": true },
+      { "texto": "Tigre", "correta": false }
     ]
   },
   {
     "id": 13,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "Em que continente fica a África do Sul?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "África", "correta": true },
+      { "texto": "América", "correta": false },
+      { "texto": "Europa", "correta": false },
+      { "texto": "Ásia", "correta": false }
     ]
   },
   {
     "id": 14,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "Qual é o nome do planeta onde vivemos?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "Marte", "correta": false },
+      { "texto": "Terra", "correta": true },
+      { "texto": "Vênus", "correta": false },
+      { "texto": "Júpiter", "correta": false }
     ]
   },
   {
     "id": 15,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "Qual estado brasileiro é conhecido pelo frevo e pelo maracatu?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "Bahia", "correta": false },
+      { "texto": "Pernambuco", "correta": true },
+      { "texto": "Pará", "correta": false },
+      { "texto": "Ceará", "correta": false }
+    ]
+  },
+  {
+    "id": 16,
+    "pergunta": "Qual é o maior bioma do Brasil?",
+    "respostas": [
+      { "texto": "Mata Atlântica", "correta": false },
+      { "texto": "Pantanal", "correta": false },
+      { "texto": "Caatinga", "correta": false },
+      { "texto": "Amazônia", "correta": true }
+    ]
+  },
+  {
+    "id": 17,
+    "pergunta": "Qual é a capital da Bahia?",
+    "respostas": [
+      { "texto": "Recife", "correta": false },
+      { "texto": "Salvador", "correta": true },
+      { "texto": "Maceió", "correta": false },
+      { "texto": "Aracaju", "correta": false }
+    ]
+  },
+  {
+    "id": 18,
+    "pergunta": "Onde o sol nasce?",
+    "respostas": [
+      { "texto": "Oeste", "correta": false },
+      { "texto": "Sul", "correta": false },
+      { "texto": "Leste", "correta": true },
+      { "texto": "Norte", "correta": false }
+    ]
+  },
+  {
+    "id": 19,
+    "pergunta": "Quantos estados tem o Brasil?",
+    "respostas": [
+      { "texto": "25", "correta": false },
+      { "texto": "26", "correta": true },
+      { "texto": "27", "correta": false },
+      { "texto": "24", "correta": false }
+    ]
+  },
+  {
+    "id": 20,
+    "pergunta": "Como se chama o conjunto de estrelas que vemos à noite?",
+    "respostas": [
+      { "texto": "Galáxia", "correta": false },
+      { "texto": "Nuvem", "correta": false },
+      { "texto": "Céu", "correta": false },
+      { "texto": "Constelação", "correta": true }
+    ]
+  },
+  {
+    "id": 21,
+    "pergunta": "Qual é o maior deserto do mundo?",
+    "respostas": [
+      { "texto": "Saara", "correta": true },
+      { "texto": "Gobi", "correta": false },
+      { "texto": "Atacama", "correta": false },
+      { "texto": "Kalahari", "correta": false }
+    ]
+  },
+  {
+    "id": 22,
+    "pergunta": "Como se chama o lugar onde moram os índios?",
+    "respostas": [
+      { "texto": "Aldeia", "correta": true },
+      { "texto": "Cidade", "correta": false },
+      { "texto": "Fazenda", "correta": false },
+      { "texto": "Sítio", "correta": false }
+    ]
+  },
+  {
+    "id": 23,
+    "pergunta": "Qual é a capital de Minas Gerais?",
+    "respostas": [
+      { "texto": "Uberlândia", "correta": false },
+      { "texto": "Contagem", "correta": false },
+      { "texto": "Belo Horizonte", "correta": true },
+      { "texto": "Juiz de Fora", "correta": false }
+    ]
+  },
+  {
+    "id": 24,
+    "pergunta": "Qual é o nome do satélite natural da Terra?",
+    "respostas": [
+      { "texto": "Lua", "correta": true },
+      { "texto": "Sol", "correta": false },
+      { "texto": "Marte", "correta": false },
+      { "texto": "Estrela", "correta": false }
     ]
   }
 ]

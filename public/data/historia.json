@@ -45,7 +45,10 @@
     "respostas": [
       { "texto": "Serviam para lazer", "correta": false },
       { "texto": "Eram locais de pesca", "correta": false },
-      { "texto": "Forneciam água para agricultura e sobrevivência", "correta": true },
+      {
+        "texto": "Forneciam água para agricultura e sobrevivência",
+        "correta": true
+      },
       { "texto": "Eram usados como fronteiras de guerra", "correta": false }
     ]
   },
@@ -245,7 +248,10 @@
     "respostas": [
       { "texto": "Construíam casas", "correta": false },
       { "texto": "Faziam brincadeiras", "correta": false },
-      { "texto": "Se protegiam do frio e cozinhavam alimentos", "correta": true },
+      {
+        "texto": "Se protegiam do frio e cozinhavam alimentos",
+        "correta": true
+      },
       { "texto": "Fabricavam roupas", "correta": false }
     ]
   }
