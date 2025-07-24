@@ -1,152 +1,252 @@
 [
   {
     "id": 1,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "Qual é o nome da ciência que estuda os acontecimentos do passado?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "Geografia", "correta": false },
+      { "texto": "História", "correta": true },
+      { "texto": "Matemática", "correta": false },
+      { "texto": "Ciência", "correta": false }
     ]
   },
   {
     "id": 2,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "Para que os seres humanos passaram a usar o fogo depois de domesticá-lo?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "Fazer esculturas", "correta": false },
+      { "texto": "Fazer ferramentas de pedra", "correta": false },
+      { "texto": "Cozinhar alimentos e se aquecer", "correta": true },
+      { "texto": "Construir casas", "correta": false }
     ]
   },
   {
     "id": 3,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "O que os historiadores usam para estudar o passado?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "Jornais atuais", "correta": false },
+      { "texto": "Filmes", "correta": false },
+      { "texto": "Documentos, objetos antigos e pinturas", "correta": true },
+      { "texto": "Redes sociais", "correta": false }
     ]
   },
   {
     "id": 4,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "Como eram chamados os primeiros grupos humanos que mudavam de lugar com frequência?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "Agricultores", "correta": false },
+      { "texto": "Nômades", "correta": true },
+      { "texto": "Comerciantes", "correta": false },
+      { "texto": "Sedentários", "correta": false }
     ]
   },
   {
     "id": 5,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "Por que os rios eram importantes para os povos da Mesopotâmia?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "Serviam para lazer", "correta": false },
+      { "texto": "Eram locais de pesca", "correta": false },
+      { "texto": "Forneciam água para agricultura e sobrevivência", "correta": true },
+      { "texto": "Eram usados como fronteiras de guerra", "correta": false }
     ]
   },
   {
     "id": 6,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "O que marcou a passagem do modo de vida nômade para o sedentário?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "Construção de pontes", "correta": false },
+      { "texto": "Descoberta do fogo", "correta": false },
+      { "texto": "Prática da agricultura", "correta": true },
+      { "texto": "Invenção da roda", "correta": false }
     ]
   },
   {
     "id": 7,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "O que os seres humanos começaram a construir quando passaram a viver de forma sedentária?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "Cabines móveis", "correta": false },
+      { "texto": "Cidades e vilarejos", "correta": true },
+      { "texto": "Botes e canoas", "correta": false },
+      { "texto": "Fogueiras", "correta": false }
     ]
   },
   {
     "id": 8,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "Quem foram os primeiros habitantes do território brasileiro?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "Europeus", "correta": false },
+      { "texto": "Africanos", "correta": false },
+      { "texto": "Indígenas", "correta": true },
+      { "texto": "Portugueses", "correta": false }
     ]
   },
   {
     "id": 9,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "Qual era uma das principais atividades dos povos indígenas antes da chegada dos portugueses?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "Criar gado", "correta": false },
+      { "texto": "Cultivar a terra", "correta": true },
+      { "texto": "Construir navios", "correta": false },
+      { "texto": "Trabalhar em fábricas", "correta": false }
     ]
   },
   {
     "id": 10,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "Qual planta foi muito importante para a economia do Brasil colonial?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "Milho", "correta": false },
+      { "texto": "Soja", "correta": false },
+      { "texto": "Cana-de-açúcar", "correta": true },
+      { "texto": "Trigo", "correta": false }
     ]
   },
   {
     "id": 11,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "O que se produzia a partir da cana-de-açúcar no Brasil colonial?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "Farinhas", "correta": false },
+      { "texto": "Açúcar e aguardente", "correta": true },
+      { "texto": "Cerveja", "correta": false },
+      { "texto": "Queijo", "correta": false }
     ]
   },
   {
     "id": 12,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "Além da cana, qual outro produto foi muito cultivado e exportado pelo Brasil no século XIX?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "Feijão", "correta": false },
+      { "texto": "Café", "correta": true },
+      { "texto": "Arroz", "correta": false },
+      { "texto": "Batata", "correta": false }
     ]
   },
   {
     "id": 13,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "O que indica que os seres humanos modificam o espaço onde vivem?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "Construção de estradas e casas", "correta": true },
+      { "texto": "Mudança do clima", "correta": false },
+      { "texto": "Crescimento das árvores", "correta": false },
+      { "texto": "Movimento das marés", "correta": false }
     ]
   },
   {
     "id": 14,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "Antes do ano de 1500, o território brasileiro era ocupado por:",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "Colonizadores portugueses", "correta": false },
+      { "texto": "Africanos", "correta": false },
+      { "texto": "Povos indígenas", "correta": true },
+      { "texto": "Franceses", "correta": false }
     ]
   },
   {
     "id": 15,
-    "pergunta": "Primeira pergunta?",
+    "pergunta": "O que é um vestígio histórico?",
     "respostas": [
-      { "texto": "resposta 01", "correta": false },
-      { "texto": "resposta 02", "correta": true },
-      { "texto": "resposta 03", "correta": false },
-      { "texto": "resposta 04", "correta": false }
+      { "texto": "Um brinquedo novo", "correta": false },
+      { "texto": "Uma prova de matemática", "correta": false },
+      { "texto": "Um objeto antigo que conta uma história", "correta": true },
+      { "texto": "Um jogo de futebol", "correta": false }
+    ]
+  },
+  {
+    "id": 16,
+    "pergunta": "O que os povos nômades buscavam ao mudar de lugar?",
+    "respostas": [
+      { "texto": "Novos amigos", "correta": false },
+      { "texto": "Água, alimentos e abrigo", "correta": true },
+      { "texto": "Novas roupas", "correta": false },
+      { "texto": "Terras para plantar", "correta": false }
+    ]
+  },
+  {
+    "id": 17,
+    "pergunta": "Quais ferramentas eram usadas pelos primeiros humanos?",
+    "respostas": [
+      { "texto": "Ferramentas de metal", "correta": false },
+      { "texto": "Ferramentas digitais", "correta": false },
+      { "texto": "Ferramentas de pedra e ossos", "correta": true },
+      { "texto": "Máquinas de escrever", "correta": false }
+    ]
+  },
+  {
+    "id": 18,
+    "pergunta": "O que ajudou os primeiros humanos a sobreviver em locais frios?",
+    "respostas": [
+      { "texto": "Ficar ao sol", "correta": false },
+      { "texto": "Viver em cavernas", "correta": false },
+      { "texto": "Uso do fogo para aquecimento", "correta": true },
+      { "texto": "Construir barcos", "correta": false }
+    ]
+  },
+  {
+    "id": 19,
+    "pergunta": "O que os rios ofereciam para as primeiras civilizações?",
+    "respostas": [
+      { "texto": "Lazer", "correta": false },
+      { "texto": "Energia elétrica", "correta": false },
+      { "texto": "Água para beber, plantar e pescar", "correta": true },
+      { "texto": "Música", "correta": false }
+    ]
+  },
+  {
+    "id": 20,
+    "pergunta": "Qual dos produtos abaixo foi importante para o Brasil no ciclo do café?",
+    "respostas": [
+      { "texto": "Carne", "correta": false },
+      { "texto": "Café", "correta": true },
+      { "texto": "Milho", "correta": false },
+      { "texto": "Açaí", "correta": false }
+    ]
+  },
+  {
+    "id": 21,
+    "pergunta": "Como os povos indígenas registravam sua história?",
+    "respostas": [
+      { "texto": "Em vídeos", "correta": false },
+      { "texto": "Por meio da fala e da tradição oral", "correta": true },
+      { "texto": "Com máquinas fotográficas", "correta": false },
+      { "texto": "Escrevendo livros", "correta": false }
+    ]
+  },
+  {
+    "id": 22,
+    "pergunta": "Quem trabalhava nas plantações de cana e café no Brasil colonial?",
+    "respostas": [
+      { "texto": "Robôs", "correta": false },
+      { "texto": "Imigrantes", "correta": false },
+      { "texto": "Escravizados", "correta": true },
+      { "texto": "Soldados", "correta": false }
+    ]
+  },
+  {
+    "id": 23,
+    "pergunta": "O que diferencia o modo de vida nômade do sedentário?",
+    "respostas": [
+      { "texto": "Nômades viajam e sedentários vivem fixos", "correta": true },
+      { "texto": "Nômades têm casas de pedra", "correta": false },
+      { "texto": "Sedentários moram em cavernas", "correta": false },
+      { "texto": "Sedentários não plantam", "correta": false }
+    ]
+  },
+  {
+    "id": 24,
+    "pergunta": "Qual das opções é um exemplo de fonte histórica?",
+    "respostas": [
+      { "texto": "Filme de super-herói", "correta": false },
+      { "texto": "Cartaz de propaganda moderna", "correta": false },
+      { "texto": "Carta escrita no passado", "correta": true },
+      { "texto": "Notícia falsa da internet", "correta": false }
+    ]
+  },
+  {
+    "id": 25,
+    "pergunta": "O que os povos antigos faziam com o fogo?",
+    "respostas": [
+      { "texto": "Construíam casas", "correta": false },
+      { "texto": "Faziam brincadeiras", "correta": false },
+      { "texto": "Se protegiam do frio e cozinhavam alimentos", "correta": true },
+      { "texto": "Fabricavam roupas", "correta": false }
     ]
   }
 ]
